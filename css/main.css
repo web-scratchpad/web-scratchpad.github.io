@@ -3,7 +3,7 @@ body {
 }
 
 .header {
-  background-color: #a6ffe4;
+  background-color: #B0E0E6;
   padding: 50px;
   text-align: center;
   margin-left: 190px;
@@ -22,7 +22,7 @@ body {
 }
 
 .sidebar {
-  background-color: #a6ffe4;
+  background-color: #FFD700;
   height: 100%; 
   width: 140px;
   position: fixed; 
