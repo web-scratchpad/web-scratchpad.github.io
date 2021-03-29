@@ -1,7 +1,19 @@
-div {
+.header {
   background-color: #a6ffe4;
+  padding: 50px;
+  text-align: center;
 }
 
 .article {
   background-color: #cccccc;
+  padding: 20px;
+}
+
+.sidebar {
+  height: 100%; 
+  width: 80px;
+  position: fixed; 
+  z-index: 1; 
+  top: 0;
+  left: 0;
 }
