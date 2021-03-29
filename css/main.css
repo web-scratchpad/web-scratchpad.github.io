@@ -1,15 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .header {
   background-color: #a6ffe4;
   padding: 50px;
   text-align: center;
+  margin-left: 90px;
 }
 
 .article {
-  background-color: #cccccc;
+  background-color: #e3e3e3;
   padding: 20px;
+  margin-left: 90px;
 }
 
 .sidebar {
+  background-color: #a6ffe4;
   height: 100%; 
   width: 80px;
   position: fixed; 
