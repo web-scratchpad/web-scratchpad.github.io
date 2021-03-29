@@ -9,6 +9,12 @@ body {
   margin-left: 170px;
 }
 
+.button {
+  background-color: #00cc8f;
+  font: bold 11px Arial;
+  padding: 2px 6px 2px 6px;
+}
+
 .article {
   background-color: #e3e3e3;
   padding: 20px;
@@ -18,7 +24,7 @@ body {
 .sidebar {
   background-color: #a6ffe4;
   height: 100%; 
-  width: 160px;
+  width: 140px;
   position: fixed; 
   z-index: 1; 
   top: 0;
