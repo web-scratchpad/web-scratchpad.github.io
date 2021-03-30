@@ -43,3 +43,8 @@ body {
   font-size: x-small;
   margin-left: 50px;
 }
+
+img {
+  max-width: 75%;
+  height: auto;
+}
