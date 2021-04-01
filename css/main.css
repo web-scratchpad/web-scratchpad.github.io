@@ -55,8 +55,7 @@ img {
 
 #img1a {
   position: relative;
-  top: 0;
-  right: 0;
+  float: left;
 }
 
 #img2a {
