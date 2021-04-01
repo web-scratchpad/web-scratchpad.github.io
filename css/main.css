@@ -14,12 +14,14 @@ body {
   font-family: Arial;
   font-size: medium;
   padding: 2px 6px 2px 6px;
+  margin: 4px 12px 4px 12px;
 }
 
 .selected {
   background-color: #00cc8f;
   font: bold medium Arial;
   padding: 6px 18px 6px 18px;
+  margin: 12px 36px 12px 36px;
 }
 
 .article {
