@@ -53,7 +53,7 @@ body {
 #img1a {
   position: absolute;
   top: 0;
-  right: 0;
+  left: 0;
   height: 500px;
   width: auto;
 }
@@ -61,7 +61,7 @@ body {
 #img2a {
   position: absolute;
   top: 0;
-  right: 0;
+  left: 0;
   height: 500px;
   width: auto;
 }
