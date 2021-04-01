@@ -67,3 +67,7 @@ body {
 .spacer {
   padding-bottom: 500px;
 }
+
+#sources {
+  line-height: 200%;
+}
