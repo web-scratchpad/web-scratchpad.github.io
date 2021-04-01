@@ -44,22 +44,26 @@ body {
   margin-left: 50px;
 }
 
-img {
-  max-width: 75%;
-  height: auto;
-}
-
 .image-bank {
   position: relative;
 }
 
 #img1a {
   position: relative;
-  float: left;
+  top: 0;
+  right: 0;
+  height: 500px;
+  width: auto;
 }
 
 #img2a {
   position: absolute;
   top: 0;
   right: 0;
+  height: 500px;
+  width: auto;
+}
+
+.spacer {
+  padding-bottom: 500px;
 }
