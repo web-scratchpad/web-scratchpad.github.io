@@ -48,3 +48,19 @@ img {
   max-width: 75%;
   height: auto;
 }
+
+.image-bank {
+  position: relative;
+}
+
+#img1a {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#img2a {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
